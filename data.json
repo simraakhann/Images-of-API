@@ -1,0 +1,129 @@
+[
+    {
+        "img-id": 101,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/a-room-with-a-table-and-chairs-BdU_E9nv1yY,",
+        "img-description": "plush brown leather recliner with wide arms ecomic support for maximum comfort"
+    },
+    {
+        "img-id": 102,
+        "img-category": "furniture",
+        "img-url":"https://unsplash.com/photos/red-fabric-sofa-dbH_vy7vICE",
+        "img-description":"Features soft upholstery and sturdy structure, ideal for everyday relaxation and use."
+    },
+    {
+        "img-id": 103,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/a-living-room-with-green-walls-and-furniture-dS-nZJYaANA",
+        "img-description": "Eye-catching form with a balance of aesthetics and functionality in every detail."
+    },
+    {
+        "img-id": 104,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/turned-on-pendant-lamps-Ry9WBo3qmoc",
+        "img-description": "Smooth textures and warm tones invite comfort while maintaining a refined presence."
+    },
+    {
+        "img-id": 105,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/white-wooden-dresser-with-mirror-7pCFUybP_P8",
+        "img-description": "Crafted with rich materials, offering a timeless look that suits various interiors."
+    },
+    {
+        "img-id": 106,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/white-wooden-wall-mounted-shelf-with-white-wooden-frame-rwa0Yh38FeA",
+        "img-description": "Minimalist design with clean lines, perfect for modern or contemporary room settings."
+    },
+    {
+        "img-id": 107,
+        "img-category": "furniture",
+        "img-url": "https://unsplash.com/photos/a-wooden-table-with-two-vases-on-top-of-it-sUXw1nVXI6Y",
+        "img-description": "Elegant curves and neutral tones provide versatility in a wide range of environment."
+    },
+    {
+        "img-id": 108,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-chair-sofa-couch-home-2155376/",
+        "img-description": "Stylish piece with smooth finish, combining comfort and elegance for any living space."
+    },
+    {
+        "img-id": 109,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/brick-wall-room-interior-design-1850095/",
+        "img-description": "Features soft upholstery and sturdy structure, ideal for everyday relaxation and use. "
+    },
+    {
+        "img-id": 110,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/real-estate-sofa-living-room-table-9053405/Designed",
+        "img-description": "Designed for durability and visual appeal, seamlessly blending into home or office spaces."
+    },
+    {
+        "img-id": 111,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-sitting-room-7121425/",
+        "img-description": "Simple, modern shape with neutral color palette, easily fits into any interior design style."
+    },
+    {
+        "img-id": 112,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/illustrations/living-room-furniture-interior-home-5570509",
+        "img-description": "Blends sleek materials and soft tones for a calming, contemporary visual impact. "
+    },
+    {
+        "img-id": 113,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-home-52831/",
+        "img-description": " Subtle texture contrasts add depth and visual interest without overwhelming the space."
+    },
+    {
+        "img-id": 114,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-fireplace-house-4343696/",
+        "img-description": "Warm natural materials paired with modern details create a cozy yet updated feel."
+    },
+    {
+        "img-id": 115,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/illustrations/living-room-furniture-interior-home-5570512",
+        "img-description": "Crafted with attention to detail, offering a refined look that complements any space."
+    },
+
+    {
+        "img-id": 116,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-3d-archi-salon-1733750/",
+        "img-description": "Streamlined silhouette with soft finishes creates a relaxing and visually pleasing atmosphere."
+    },
+
+    {
+        "img-id": 117,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/real-estate-living-room-sofa-6893060/",
+        "img-description": "Strong build with smooth edges, offering both practicality and understated sophistication."
+    },
+
+    {
+        "img-id": 118,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/living-room-furnishing-reside-728732/",
+        "img-description": "Light wood tones and airy design give a spacious, open feeling to the room."
+    },
+
+    {
+        "img-id": 119,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/illustrations/living-room-interior-villa-7303275/",
+        "img-description": "Comfortable cushioning combined with structured form delivers both support and style."
+    },
+
+    {
+        "img-id": 120,
+        "img-category": "furniture",
+        "img-url": "https://pixabay.com/photos/home-interior-living-room-5925502/",
+        "img-description": "Strong build with smooth edges, offering both practicality and understated sophistication."
+    }
+
+    
+]
