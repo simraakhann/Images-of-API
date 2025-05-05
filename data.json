@@ -1,128 +1,128 @@
 [
     {
-        "img-id": 101,
-        "img-category": "furniture",
-        "img-url": "https://plus.unsplash.com/premium_photo-1670076513880-f58e3c377903?q=80&w=1318&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "plush brown leather recliner with wide arms ecomic support for maximum comfort"
+        "img_id": 101,
+        "img_category": "furniture",
+        "img_url": "https://plus.unsplash.com/premium_photo-1670076513880-f58e3c377903?q=80&w=1318&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "plush brown leather recliner with wide arms ecomic support for maximum comfort"
     },
     {
-        "img-id": 102,
-        "img-category": "furniture",
-        "img-url":"https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description":"Features soft upholstery and sturdy structure, ideal for everyday relaxation and use."
+        "img_id": 102,
+        "img_category": "furniture",
+        "img_url":"https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description":"Features soft upholstery and sturdy structure, ideal for everyday relaxation and use."
     },
     {
-        "img-id": 103,
-        "img-category": "furniture",
-        "img-url": "https://plus.unsplash.com/premium_photo-1688125414593-391cf90f3103?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "Eye-catching form with a balance of aesthetics and functionality in every detail."
+        "img_id": 103,
+        "img_category": "furniture",
+        "img_url": "https://plus.unsplash.com/premium_photo-1688125414593-391cf90f3103?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "Eye-catching form with a balance of aesthetics and functionality in every detail."
     },
     {
-        "img-id": 104,
-        "img-category": "furniture",
-        "img-url": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "Smooth textures and warm tones invite comfort while maintaining a refined presence."
+        "img_id": 104,
+        "img_category": "furniture",
+        "img_url": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "Smooth textures and warm tones invite comfort while maintaining a refined presence."
     },
     {
-        "img-id": 105,
-        "img-category": "furniture",
-        "img-url": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "Crafted with rich materials, offering a timeless look that suits various interiors."
+        "img_id": 105,
+        "img_category": "furniture",
+        "img_url": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "Crafted with rich materials, offering a timeless look that suits various interiors."
     },
     {
-        "img-id": 106,
-        "img-category": "furniture",
-        "img-url": "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "Minimalist design with clean lines, perfect for modern or contemporary room settings."
+        "img_id": 106,
+        "img_category": "furniture",
+        "img_url": "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "Minimalist design with clean lines, perfect for modern or contemporary room settings."
     },
     {
-        "img-id": 107,
-        "img-category": "furniture",
-        "img-url": "https://plus.unsplash.com/premium_photo-1681980020984-2700a72e56c4?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "img-description": "Elegant curves and neutral tones provide versatility in a wide range of environment."
+        "img_id": 107,
+        "img_category": "furniture",
+        "img_url": "https://plus.unsplash.com/premium_photo-1681980020984-2700a72e56c4?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img_description": "Elegant curves and neutral tones provide versatility in a wide range of environment."
     },
     {
-        "img-id": 108,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2017/03/19/01/43/living-room-2155376_1280.jpg",
-        "img-description": "Stylish piece with smooth finish, combining comfort and elegance for any living space."
+        "img_id": 108,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2017/03/19/01/43/living-room-2155376_1280.jpg",
+        "img_description": "Stylish piece with smooth finish, combining comfort and elegance for any living space."
     },
     {
-        "img-id": 109,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2017/03/19/01/43/living-room-2155376_1280.jpg",
-        "img-description": "Features soft upholstery and sturdy structure, ideal for everyday relaxation and use. "
+        "img_id": 109,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2017/03/19/01/43/living-room-2155376_1280.jpg",
+        "img_description": "Features soft upholstery and sturdy structure, ideal for everyday relaxation and use. "
     },
     {
-        "img-id": 110,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2017/08/02/01/01/living-room-2569325_1280.jpg",
-        "img-description": "Designed for durability and visual appeal, seamlessly blending into home or office spaces."
+        "img_id": 110,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2017/08/02/01/01/living-room-2569325_1280.jpg",
+        "img_description": "Designed for durability and visual appeal, seamlessly blending into home or office spaces."
     },
     {
-        "img-id": 111,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2022/04/09/13/35/living-room-7121425_1280.jpg",
-        "img-description": "Simple, modern shape with neutral color palette, easily fits into any interior design style."
+        "img_id": 111,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2022/04/09/13/35/living-room-7121425_1280.jpg",
+        "img_description": "Simple, modern shape with neutral color palette, easily fits into any interior design style."
     },
     {
-        "img-id": 112,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2020/09/14/09/48/living-room-5570509_1280.jpg",
-        "img-description": "Blends sleek materials and soft tones for a calming, contemporary visual impact. "
+        "img_id": 112,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2020/09/14/09/48/living-room-5570509_1280.jpg",
+        "img_description": "Blends sleek materials and soft tones for a calming, contemporary visual impact. "
     },
     {
-        "img-id": 113,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2012/07/25/13/48/luggage-52831_1280.jpg",
-        "img-description": " Subtle texture contrasts add depth and visual interest without overwhelming the space."
+        "img_id": 113,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2012/07/25/13/48/luggage-52831_1280.jpg",
+        "img_description": " Subtle texture contrasts add depth and visual interest without overwhelming the space."
     },
     {
-        "img-id": 114,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2019/07/17/11/17/living-room-4343696_1280.jpg",
-        "img-description": "Warm natural materials paired with modern details create a cozy yet updated feel."
+        "img_id": 114,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2019/07/17/11/17/living-room-4343696_1280.jpg",
+        "img_description": "Warm natural materials paired with modern details create a cozy yet updated feel."
     },
     {
-        "img-id": 115,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2020/09/14/09/48/living-room-5570512_1280.jpg",
-        "img-description": "Crafted with attention to detail, offering a refined look that complements any space."
-    },
-
-    {
-        "img-id": 116,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2016/10/12/07/28/living-1733750_1280.jpg",
-        "img-description": "Streamlined silhouette with soft finishes creates a relaxing and visually pleasing atmosphere."
+        "img_id": 115,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2020/09/14/09/48/living-room-5570512_1280.jpg",
+        "img_description": "Crafted with attention to detail, offering a refined look that complements any space."
     },
 
     {
-        "img-id": 117,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2021/12/25/13/08/real-estate-6893060_1280.jpg",
-        "img-description": "Strong build with smooth edges, offering both practicality and understated sophistication."
+        "img_id": 116,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2016/10/12/07/28/living-1733750_1280.jpg",
+        "img_description": "Streamlined silhouette with soft finishes creates a relaxing and visually pleasing atmosphere."
     },
 
     {
-        "img-id": 118,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2015/04/18/13/23/living-room-728732_1280.jpg",
-        "img-description": "Light wood tones and airy design give a spacious, open feeling to the room."
+        "img_id": 117,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2021/12/25/13/08/real-estate-6893060_1280.jpg",
+        "img_description": "Strong build with smooth edges, offering both practicality and understated sophistication."
     },
 
     {
-        "img-id": 119,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2022/07/05/14/59/living-room-7303275_1280.jpg",
-        "img-description": "Comfortable cushioning combined with structured form delivers both support and style."
+        "img_id": 118,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2015/04/18/13/23/living-room-728732_1280.jpg",
+        "img_description": "Light wood tones and airy design give a spacious, open feeling to the room."
     },
 
     {
-        "img-id": 120,
-        "img-category": "furniture",
-        "img-url": "https://cdn.pixabay.com/photo/2021/01/17/15/41/home-5925502_1280.jpg",
-        "img-description": "Strong build with smooth edges, offering both practicality and understated sophistication."
+        "img_id": 119,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2022/07/05/14/59/living-room-7303275_1280.jpg",
+        "img_description": "Comfortable cushioning combined with structured form delivers both support and style."
+    },
+
+    {
+        "img_id": 120,
+        "img_category": "furniture",
+        "img_url": "https://cdn.pixabay.com/photo/2021/01/17/15/41/home-5925502_1280.jpg",
+        "img_description": "Strong build with smooth edges, offering both practicality and understated sophistication."
     }
 
     
